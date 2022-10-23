@@ -1,2 +1,2 @@
 # num_methods
-num methods labs
+5 semester at mephi. numerical methods labs
